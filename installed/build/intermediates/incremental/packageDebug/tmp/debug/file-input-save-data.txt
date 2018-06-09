@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 06 20:48:43 PDT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Vincent Valentine\\AndroidStudioProjects\\InstantApps-HelloWorld\\installed\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

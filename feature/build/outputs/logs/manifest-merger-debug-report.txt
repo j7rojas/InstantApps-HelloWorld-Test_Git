@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\b2f06aef98130102a2406fbcf0d69a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b59d87208bd400f875667a73eab20cd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\00261eb8b08092bcc6b45af1c50bb496\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d63e3f97e9d250083b817294d98b7927\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\6b816643453897ef9f0bf8dbbe374acf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\3ec27014fbcefe2eb306716d7d033f6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7e5e5016ec5a35d8069f433e468290b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:18:11-73
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:1-70:12
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:20:22-64
+application
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:22:5-69:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:26:13-39
+	android:label
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:24:13-45
+	android:allowBackup
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:23:13-39
+	android:theme
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:25:13-44
+activity#com.google.android.instantapps.samples.hello.feature.HelloActivity
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:28:9-51:20
+	android:label
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:30:17-61
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:29:17-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:34:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/hello+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:36:13-47:29
+	android:autoVerify
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:37:21-46
+	android:order
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:38:21-38
+action#android.intent.action.VIEW
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:40:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:41:27-73
+data
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:43:17-48
+	android:host
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:45:23-64
+	android:scheme
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:43:23-45
+	android:pathPrefix
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:46:23-50
+meta-data#default-url
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:48:13-50:80
+	android:value
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:50:21-77
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:49:21-47
+activity#com.google.android.instantapps.samples.hello.feature.GoodbyeActivity
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:52:9-67:20
+	android:label
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:54:17-63
+	android:name
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:53:17-48
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:hello.instantappsample.com+data:pathPrefix:/goodbye+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:55:13-66:29
+	android:autoVerify
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:56:21-46
+	android:order
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml:57:21-38
+uses-sdk
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\b2f06aef98130102a2406fbcf0d69a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\b2f06aef98130102a2406fbcf0d69a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b59d87208bd400f875667a73eab20cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\b59d87208bd400f875667a73eab20cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\00261eb8b08092bcc6b45af1c50bb496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\00261eb8b08092bcc6b45af1c50bb496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d63e3f97e9d250083b817294d98b7927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d63e3f97e9d250083b817294d98b7927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\6b816643453897ef9f0bf8dbbe374acf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\6b816643453897ef9f0bf8dbbe374acf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\3ec27014fbcefe2eb306716d7d033f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\3ec27014fbcefe2eb306716d7d033f6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7e5e5016ec5a35d8069f433e468290b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7e5e5016ec5a35d8069f433e468290b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vincent Valentine\AndroidStudioProjects\InstantApps-HelloWorld\feature\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Vincent Valentine\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b8a74aadded63768799395559a8880e1\AndroidManifest.xml:26:13-58
